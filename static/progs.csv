@@ -74,5 +74,33 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 
 
 
+
+
+
+
+
+
+
+
+
+
 A,ani-cli,"is anime on the cmd."
+A,vscodium,"is an open build of vscode"
+A,youtube-local-git,""
+A,mutt-wizard-git,""
+
 ,android-file-transfer,"is a simple android utility."
+,ncdu,"is a verison of du to see what directories are using your disk space."
+,calibre,"e-book"
+,screenkey,""
+,zathura-cb,"pdf and comic book viewer"
+,tldr,"is a too long didnt read man page"
+,gimp,"image manipulation program"
+,zip,"makes zips"
+,electrum,"btc wallet"
+,monero-gui,"xmr wallet"
+,brave-bin,""
+,libreoffice,"microsoft-like office suite"
+,redshift,"bluelight filter"
+,cryptsetup,"is to manage encrypted volumes."
+,signal-desktop,"signal messaging app"
